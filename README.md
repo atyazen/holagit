@@ -1,2 +1,3 @@
 # holagit
-# Ya no se utilizan contraseñas sino tokens. 
+# Ya no se utilizan contraseñas sino tokens.
+# Hay que corregir el error de remote...
